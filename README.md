@@ -15,16 +15,16 @@ Notations:
 (1)Trajectory and data Rate of optimal solution for 2 sensor nodes
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="figures/2_sensors_plot1.png" width="400"/>
-          <img src="figures/2_sensors_plot2.png" width="405"/>
+          <img src="figures/2_sensors_plot1.png" width="400" height="300"/>
+          <img src="figures/2_sensors_plot2.png" width="400" height="300"/>
      </div>
 </div>
 
 (2)Trajectory and data rate of optimal solution for 3 sensor nodes
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-          <img src="figures/3_sensors_plot1.png" width="400"/>
-          <img src="figures/3_sensors_plot2.png" width="422.5"/>
+          <img src="figures/3_sensors_plot1.png" width="400" height="300"/>
+          <img src="figures/3_sensors_plot2.png" width="400" height="300"/>
      </div>
 </div>
 
