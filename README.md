@@ -15,7 +15,13 @@ Notations:
 (1)Trajectory of optimal solution for 2 sensor nodes
 ![screenshot](figures/2_sensors_plot1.png)
 
-(2)Trajectory of optimal solution for 3 sensor nodes
+(2)Data Rate of optimal solution for 2 sensor nodes
+![screenshot](figures/2_sensors_plot2.png)
+
+(3)Trajectory of optimal solution for 3 sensor nodes
 ![screenshot](figures/3_sensors_plot1.png)
+
+(4)Data Rate of optimal solution for 3 sensor nodes
+![screenshot](figures/3_sensors_plot2.png)
 
 
