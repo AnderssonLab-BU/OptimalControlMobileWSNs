@@ -12,25 +12,21 @@ Notations:
 
 4.Example of simulation figures:
 
-
+(1)Trajectory and data Rate of optimal solution for 2 sensor nodes
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <img src="figures/2_sensors_plot1.png" width="400"/>
-          <img src="figures/2_sensors_plot2.png" width="400"/>
+          <img src="figures/2_sensors_plot2.png" width="405"/>
      </div>
 </div>
 
+(2)Trajectory of data rate optimal solution for 3 sensor nodes
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="figures/3_sensors_plot1.png" width="400"/>
+          <img src="figures/3_sensors_plot2.png" width="422.5"/>
+     </div>
+</div>
 
-(1)Trajectory of optimal solution for 2 sensor nodes
-![screenshot](figures/2_sensors_plot1.png)
-
-(2)Data Rate of optimal solution for 2 sensor nodes
-![screenshot](figures/2_sensors_plot2.png)
-
-(3)Trajectory of optimal solution for 3 sensor nodes
-![screenshot](figures/3_sensors_plot1.png)
-
-(4)Data Rate of optimal solution for 3 sensor nodes
-![screenshot](figures/3_sensors_plot2.png)
 
 
