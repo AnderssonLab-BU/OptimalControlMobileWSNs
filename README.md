@@ -16,8 +16,6 @@ Notations:
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <img src="figures/2_sensors_plot1.png" width="200"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
           <img src="figures/2_sensors_plot2.png" width="200"/>
      </div>
 </div>
