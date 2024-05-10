@@ -10,4 +10,12 @@ Notations:
 
 3.To run the code, choose the scenario you like and then open the corresponding "Main project..." file on MatLab.
 
+Example of simulation figures:
+
+Trajectory of optimal solution for 2 sensor nodes
+![screenshot](figures/2_sensors_plot1.png)
+
+Trajectory of optimal solution for 3 sensor nodes
+![screenshot](figures/3_sensors_plot1.png)
+
 
