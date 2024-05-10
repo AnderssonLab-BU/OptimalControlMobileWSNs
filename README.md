@@ -20,7 +20,7 @@ Notations:
      </div>
 </div>
 
-(2)Trajectory of data rate optimal solution for 3 sensor nodes
+(2)Trajectory and data rate of optimal solution for 3 sensor nodes
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
           <img src="figures/3_sensors_plot1.png" width="400"/>
