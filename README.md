@@ -12,6 +12,8 @@ Notations:
 
 4.Example of simulation figures:
 
+![alt-text-1](figures/2_sensors_plot1.png "title-1") ![alt-text-2](figures/2_sensors_plot2.png "title-2")
+
 (1)Trajectory of optimal solution for 2 sensor nodes
 ![screenshot](figures/2_sensors_plot1.png)
 
