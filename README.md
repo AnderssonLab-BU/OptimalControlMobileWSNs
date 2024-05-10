@@ -12,7 +12,16 @@ Notations:
 
 4.Example of simulation figures:
 
-![alt-text-1](figures/2_sensors_plot1.png "title-1") ![alt-text-2](figures/2_sensors_plot2.png "title-2")
+
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="figures/2_sensors_plot1.png" width="300"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="figures/2_sensors_plot2.png" width="300"/>
+     </div>
+</div>
+
 
 (1)Trajectory of optimal solution for 2 sensor nodes
 ![screenshot](figures/2_sensors_plot1.png)
