@@ -1,6 +1,24 @@
 # OptimalControlMobileWSNs
 Time Optimal Control for Data Harvesting in Mobile Wireless Sensor Networks (2024)
 
+Paper Abstract - 
+We consider the problem of finding an optimal
+trajectory of a single agent tasked with harvesting data
+from multiple mobile sensor nodes in a wireless sensor
+network. We describe the data transmission model using
+a free-space broadcast communication scheme and formulate
+an optimal control problem to extract the data from all
+the nodes in minimal time. In a one-dimensional mission
+space, we demonstrate that the optimal motion strategy can
+be expressed in parametric form. Within this strategy, the
+agent’s motion is determined by a sequence of two modes,
+alternating between full-speed travel and a motion derived
+from a parametric convex combination function of sensor
+velocities. We present two approaches for solving the parametric
+optimal control problem, a gradient-descent-based
+scheme and a heuristic search method. The effectiveness
+of these methods is validated through simulations.
+
 
 Notations:
 
